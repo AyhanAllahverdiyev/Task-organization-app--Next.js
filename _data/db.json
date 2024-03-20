@@ -1,0 +1,75 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Update user profile picture",
+      "description": "The user profile picture needs to be updated to reflect recent changes.",
+      "priority": "high",
+      "body": "To update the user profile picture, navigate to the user settings page and locate the 'Profile Picture' section. Click on the 'Upload' button to select a new image from your device. Once the image is uploaded, click 'Save Changes' to update your profile picture.",
+      "user_email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "title": "Fix login authentication issue",
+      "description": "There is an issue with the login authentication process. Users are unable to log in successfully.",
+      "priority": "medium",
+      "body": "The login authentication issue may be caused by incorrect credentials or server-side errors. To fix this issue, ensure that the username and password are entered correctly. If the problem persists, check the server logs for any errors or contact the system administrator for assistance.",
+      "user_email": "jane@example.com"
+    },
+    {
+      "id": "4",
+      "title": "Update contact form validation",
+      "description": "The contact form validation needs to be updated to improve user experience and prevent spam submissions.",
+      "priority": "high",
+      "body": "The contact form validation should include checks for required fields, valid email addresses, and appropriate message length. Additionally, consider implementing CAPTCHA or reCAPTCHA to prevent spam submissions. Update the form validation logic in the backend code to enforce these checks.",
+      "user_email": "emily@example.com"
+    },
+    {
+      "id": "5",
+      "title": "Fix broken image links",
+      "description": "There are several broken image links on the website that need to be fixed.",
+      "priority": "medium",
+      "body": "To fix broken image links, identify the URLs of the broken images and locate the corresponding files in the website's directory. Verify that the files exist and are accessible. If the files are missing or inaccessible, re-upload them to the server. Update the image URLs in the website's code to point to the correct locations.",
+      "user_email": "david@example.com"
+    },
+    {
+      "id": "7",
+      "title": "Update product pricing",
+      "description": "The pricing information for various products needs to be updated to reflect recent changes.",
+      "priority": "low",
+      "body": "To update product pricing, log in to the admin panel and navigate to the 'Products' section. Locate the products whose pricing needs to be updated and edit their pricing information accordingly. Make sure to save the changes and update any relevant product descriptions or promotional materials.",
+      "user_email": "chris@example.com"
+    },
+    {
+      "id": "8",
+      "title": "Implement new payment gateway",
+      "description": "A new payment gateway needs to be implemented to provide additional payment options for customers.",
+      "priority": "medium",
+      "body": "To implement a new payment gateway, research and choose a suitable payment gateway provider that supports the desired payment methods and currencies. Follow the provider's documentation to integrate their payment gateway API with your website's checkout process. Test the integration thoroughly to ensure that payments are processed successfully.",
+      "user_email": "sarah@example.com"
+    },
+    {
+      "id": "9",
+      "title": "Fix broken navigation links",
+      "description": "Several navigation links are broken and need to be fixed to ensure proper navigation throughout the website.",
+      "priority": "high",
+      "body": "To fix broken navigation links, review the website's navigation menu and identify the broken links. Check the HTML code to ensure that the links are properly formatted with the correct URLs. If necessary, update the URLs to point to the correct destinations. Test the navigation links on different devices and browsers to verify that they work correctly.",
+      "user_email": "kevin@example.com"
+    },
+    {
+      "id": "10",
+      "title": "Update website terms and conditions",
+      "description": "The website terms and conditions need to be updated to comply with recent legal changes.",
+      "priority": "low",
+      "body": "To update the website terms and conditions, review the existing terms and make any necessary revisions to ensure compliance with current laws and regulations. Consider consulting with legal counsel to ensure that the updated terms adequately protect the website owner's interests and rights. Once the updates are finalized, publish the revised terms on the website and notify users of the changes.",
+      "user_email": "laura@example.com"
+    },
+    {
+      "title": "333",
+      "body": "33",
+      "priority": "medium",
+      "user_email": "Aykhan Allahverdiyev",
+      "id": "AapSio_"
+    }
+  ]
+}
